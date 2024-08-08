@@ -4,12 +4,12 @@ A classic Snake & Ladder game implemented in C++. This console-based game allows
 
 # Features
 **Dual Game Mode:** Play against another player or a computer opponent.<br>
-**Game Mechanics:** Dice rolling, snake and ladder functionality, and dynamic board updates.
-**User Interface:** Text-based display showing game status, player positions, and board updates.
-**State Management:** Functions to handle player movement, detect win conditions, and process special events.
+**Game Mechanics:** Dice rolling, snake and ladder functionality, and dynamic board updates.<br>
+**User Interface:** Text-based display showing game status, player positions, and board updates.<br>
+**State Management:** Functions to handle player movement, detect win conditions, and process special events.<br>
 # Tech Stack
-**Programming Language:** C++
-**Concepts:** Data Structures
+**Programming Language:** C++<br>
+**Concepts:** Data Structures<br>
 
 # Getting Started
 To run the game, compile the snake_ladder.cpp file with a C++ compiler and execute the resulting binary. Follow the on-screen instructions to start playing.
